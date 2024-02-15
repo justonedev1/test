@@ -2,5 +2,5 @@
 
 int main() {
   std::cout << "hoho\n";
-  std::cout << "addin important feature!!!\n";
+  std::cout << "adding important feature!!!\n";
 }
